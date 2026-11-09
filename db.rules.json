@@ -1,0 +1,15 @@
+{
+  ".read": false,
+  ".write": false,
+  "app_settings": {
+    ".read": true,
+    ".write": "auth != null"
+  },
+  "liveLocations": {
+    ".read": "auth != null",
+    "$driverId": {
+      ".read": "auth != null",
+      ".write": "auth != null && auth.uid === $driverId"
+    }
+  }
+}

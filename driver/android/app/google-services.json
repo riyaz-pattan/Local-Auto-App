@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "904131100008",
+    "firebase_url": "https://rural-rides-app-default-rtdb.firebaseio.com",
+    "project_id": "rural-rides-app",
+    "storage_bucket": "rural-rides-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:7cc60886fe6e382fb92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904131100008-c08haq4h06616pib4j3m3i95l49014gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ruralrides.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:b9e69ced653ea792b92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904131100008-3kpt5iaj6g0tvpjhp1o8pk3sl05ba7qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruralrides.driver",
+            "certificate_hash": "402aacbc3f83ce7925cecc0893b7791f8c0f217e"
+          }
+        },
+        {
+          "client_id": "904131100008-c7858q7snhkk0ehj8k1j7516idfckr2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruralrides.driver",
+            "certificate_hash": "2fe018f92392ef8b873fb6ee068ddb65daa95cce"
+          }
+        },
+        {
+          "client_id": "904131100008-gan2e7rlnnvrcbelucicl6n7gi73tphq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruralrides.driver",
+            "certificate_hash": "179061fab23c0921da53e9b1211b2883f694c7c7"
+          }
+        },
+        {
+          "client_id": "904131100008-h2m1dhh6826vi81mkjvjd9ono4taa1mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruralrides.driver",
+            "certificate_hash": "9be44f1a2e4563ce91ed3f8facaed404922fd7f2"
+          }
+        },
+        {
+          "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904131100008-c08haq4h06616pib4j3m3i95l49014gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ruralrides.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:3ae99b1f67345b7bb92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904131100008-rgssp9sm30dfheig0nkoitev5bfkk8te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904131100008-c08haq4h06616pib4j3m3i95l49014gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ruralrides.rider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

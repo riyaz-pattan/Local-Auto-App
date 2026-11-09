@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "904131100008",
+    "project_id": "rural-rides-app",
+    "storage_bucket": "rural-rides-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:7cc60886fe6e382fb92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:b9e69ced653ea792b92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904131100008:android:3ae99b1f67345b7bb92add",
+        "android_client_info": {
+          "package_name": "com.ruralrides.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-9WywohpsvFA8SHaPimH0tCjGJMz44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

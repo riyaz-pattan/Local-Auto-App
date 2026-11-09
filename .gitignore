@@ -1,0 +1,55 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependencies
+node_modules/
+*/node_modules/
+package-lock.json
+
+# Sensitive configuration & keys
+auth_config.json
+patch_anon.json
+patch_result.json
+*.keystore
+*.jks
+key.properties
+.env*
+**/.env*
+*serviceAccountKey*.json
+
+# Flutter & Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Android
+**/.gradle/
+**/local.properties
+**/captures/
+**/GeneratedPluginRegistrant.java
+**/.cxx/
+*.apk
+*.aab
+
+# IDE & Editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904131100008-ngtvtj7i1b732bt6g5ou43vovo4crac1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904131100008-ngtvtj7i1b732bt6g5ou43vovo4crac1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>904131100008-3kpt5iaj6g0tvpjhp1o8pk3sl05ba7qp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtw9yMW26UxgfTPCGnIJm3TXM3KU56hcc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904131100008</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ruralrides.driver</string>
+	<key>PROJECT_ID</key>
+	<string>rural-rides-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rural-rides-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904131100008:ios:41efcd867f02218db92add</string>
+	<key>DATABASE_URL</key>
+	<string>https://rural-rides-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
